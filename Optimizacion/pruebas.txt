@@ -1,0 +1,8 @@
+public class Algo{
+    private int metodo(int a, double b){
+        int b,c,d; 
+        b = (a) + (b) * (3.21) + (a) + (1500);
+        c = (a) + (b) * (3.21) + (a) + (1500);
+        d = (a) + (b) * (3.21) + (a) + (1500);
+    }
+}

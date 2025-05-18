@@ -1,0 +1,20 @@
+public class NombreClase{
+    
+    void hazAlgo(int x , double f){
+
+    }
+
+    private int x1 ,y ,z;
+    
+    protected double ejemplo(int x, double w, double n) 
+    { 
+        x = ((n+i10-k78)*fg+jk+345);
+        int x, v,z, f, g, h; 
+        double f,g;
+        y = ((n+i10-k78)*fg+jk*3.45);
+        int x;
+    }
+
+    double f ,g , h;
+    
+}
